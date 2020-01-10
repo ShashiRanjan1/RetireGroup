@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="retire_group" name="retire_group">a6e32cc01b120010c5dd4196bc4bcb96</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-07 09:56:39</sys_created_on>
+        <sys_id>eae32cc01b120010c5dd4196bc4bcb99</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>a6e32cc01b120010c5dd4196bc4bcb96</sys_name>
+        <sys_package display_value="Retire Group" source="x_60748_retire_gro">65f268401b120010c5dd4196bc4bcbcb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Retire Group">65f268401b120010c5dd4196bc4bcbcb</sys_scope>
+        <sys_update_name>sys_embedded_help_role_eae32cc01b120010c5dd4196bc4bcb99</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-07 09:56:39</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
