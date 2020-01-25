@@ -74,9 +74,9 @@
         <visible_standalone>true</visible_standalone>
         <workflow display_value="Service Catalog Item Request">0287f2c64a36232700820846b1f8bdce</workflow>
     </sc_cat_item>
-    <sys_translated_text action="delete_multiple" query="documentkey=a6c5e1ce1b120010c5dd4196bc4bcbbd"/>
-    <fx_price action="delete_multiple" query="id=a6c5e1ce1b120010c5dd4196bc4bcbbd"/>
-    <fx_price action="INSERT_OR_UPDATE">
+    <sys_translated_text action="DELETE" query="documentkey=a6c5e1ce1b120010c5dd4196bc4bcbbd"/>
+    <fx_price action="DELETE" query="id=a6c5e1ce1b120010c5dd4196bc4bcbbd"/>
+    <fx_price action="DELETE">
         <amount>0</amount>
         <currency display_value="USD">USD</currency>
         <field>price</field>
@@ -93,7 +93,7 @@
         <table>sc_cat_item</table>
         <type>calculated</type>
     </fx_price>
-    <fx_price action="INSERT_OR_UPDATE">
+    <fx_price action="DELETE">
         <amount>0</amount>
         <currency display_value="USD">USD</currency>
         <field>recurring_price</field>
