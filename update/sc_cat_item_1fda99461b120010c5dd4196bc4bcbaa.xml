@@ -12,6 +12,7 @@
         <description/>
         <display_price_property>non_zero</display_price_property>
         <entitlement_script/>
+        <flow_designer_flow/>
         <group/>
         <hide_sp>false</hide_sp>
         <icon/>
@@ -57,14 +58,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-01-13 19:05:21</sys_created_on>
         <sys_id>1fda99461b120010c5dd4196bc4bcbaa</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>ITSM Retire Group</sys_name>
         <sys_package display_value="Retire Group" source="x_60748_retire_gro">65f268401b120010c5dd4196bc4bcbcb</sys_package>
         <sys_policy/>
         <sys_scope display_value="Retire Group">65f268401b120010c5dd4196bc4bcbcb</sys_scope>
         <sys_update_name>sc_cat_item_1fda99461b120010c5dd4196bc4bcbaa</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-01-13 19:05:21</sys_updated_on>
+        <sys_updated_on>2020-02-03 22:48:53</sys_updated_on>
         <template/>
         <type>item</type>
         <use_sc_layout>true</use_sc_layout>
@@ -72,7 +73,7 @@
         <visible_bundle>true</visible_bundle>
         <visible_guide>true</visible_guide>
         <visible_standalone>true</visible_standalone>
-        <workflow display_value="Service Catalog Item Request">0287f2c64a36232700820846b1f8bdce</workflow>
+        <workflow display_value="Item Designer - Fulfilment">abf13b30c30311003d2ae219cdba8fb3</workflow>
     </sc_cat_item>
     <sys_translated_text action="delete_multiple" query="documentkey=1fda99461b120010c5dd4196bc4bcbaa"/>
     <fx_price action="delete_multiple" query="id=1fda99461b120010c5dd4196bc4bcbaa"/>
